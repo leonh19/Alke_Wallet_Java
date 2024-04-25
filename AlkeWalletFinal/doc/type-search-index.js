@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"billeteraVirtual","l":"ConversorMoneda"},{"p":"billeteraVirtual","l":"Cuenta"},{"p":"billeteraVirtual","l":"OperacionesMoneda"},{"p":"billeteraVirtual","l":"Transacciones"},{"p":"billeteraVirtual","l":"Usuario"},{"p":"billeteraVirtual","l":"Wallet"}];updateSearchResults();
